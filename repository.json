@@ -1,5 +1,5 @@
 {
-    "name": "Home Assistant Onedrive Backup Repository (Preview)",
-    "url": "https://github.com/lavinir/hassio-onedrive-backup",
-    "maintainer": "Nir Lavi <snirlavi@gmail.com>"
+    "name": "Home Assistant Onedrive Backup Repository (mod)",
+    "url": "https://github.com/SuperPino64/hassio-onedrive-backup",
+    "maintainer": "Super pino"
 }
