@@ -1,7 +1,7 @@
 {
-  "local_backup_num_to_keep": 2,
-  "onedrive_backup_num_to_keep": 2,
-  "backup_interval_days": 3,
+  "local_backup_num_to_keep": 3,
+  "onedrive_backup_num_to_keep": 30,
+  "backup_interval_days": 360,
   "backup_name": "hass_backup",
   "monitor_all_local_backups": false,
   "notify_on_error": true,
@@ -19,7 +19,7 @@
     "fakeaddon"
   ],
   "log_level": "info",
-  "backup_passwd": "alsdkfjslajfk",
+  "backup_passwd": "zzzzzzz",
   "ignore_upgrade_backups": false,
   "backup_instance_name": "LocalTest"
 }
